@@ -1,0 +1,21 @@
+body {
+  background-color: #efefef;
+  margin: 5%;
+}
+
+.list-group-item {
+  background-color: #efefef;
+}
+
+.text-center {
+  list-style-position: inside;
+}
+
+.thumbnail {
+  background-color: #white;
+}
+
+ul li {
+  padding: 1%;
+}
+
